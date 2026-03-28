@@ -1,0 +1,11 @@
+Amount,Time,Transaction_Type,Fraud
+100,10,Online,No
+250,20,Offline,No
+3000,5,Online,Yes
+150,15,Offline,No
+5000,2,Online,Yes
+200,30,Offline,No
+7000,1,Online,Yes
+120,25,Offline,No
+4000,3,Online,Yes
+180,22,Offline,No
